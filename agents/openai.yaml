@@ -1,0 +1,4 @@
+interface:
+  display_name: "穿搭色卡拼贴"
+  short_description: "提取真实穿搭的颜色和图案，制作人物穿插的编辑色卡照片"
+  default_prompt: "使用 $outfit-swatch-collage 分析我的原照片，提取对应颜色与图案，用白底色卡与人物局部遮挡组成创意照片；先出一张预览等待审核。"

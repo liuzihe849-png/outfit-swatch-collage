@@ -1,0 +1,17 @@
+{
+  "role": "style_reference_only",
+  "author": "理智画",
+  "github": "liuzihe849-png",
+  "not_source_identity": true,
+  "publication_authorized": true,
+  "visual_acceptance": "preview; user aesthetic approval and post-download retest remain separate",
+  "images": [
+    {
+      "path": "assets/reference-original.png",
+      "sha256": "65383a06d4ae31fd4471d199aa1be6af0bad503e25ad433b9fc5a62e6581dd72",
+      "origin": "author workflow original sample",
+      "limitations": "卡片条纹和 PANTONE 排版供参考；生成样片的纹理不等于新照片应被重绘，图形须保持平面。"
+    }
+  ],
+  "minimum_visual_signature": "Upright white cards, graphic upper field and short white caption band; exact bold PANTONE header and English object-linked subtitles. Use source colors and include restrained stripes/geometric motifs rather than all-solid blocks. Asymmetric source-specific placement and natural partial person occlusion. No clothing recoloring."
+}
